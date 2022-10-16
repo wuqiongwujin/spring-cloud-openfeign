@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-openfeign.iml" filepath="$PROJECT_DIR$/spring-cloud-openfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-openfeign-core/spring-cloud-openfeign-core.iml" filepath="$PROJECT_DIR$/spring-cloud-openfeign-core/spring-cloud-openfeign-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-openfeign-dependencies/spring-cloud-openfeign-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-openfeign-dependencies/spring-cloud-openfeign-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs/spring-cloud-openfeign-docs.iml" filepath="$PROJECT_DIR$/docs/spring-cloud-openfeign-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-openfeign/spring-cloud-starter-openfeign.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-openfeign/spring-cloud-starter-openfeign.iml" />
+    </modules>
+  </component>
+</project>

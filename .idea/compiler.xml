@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for Spring Cloud OpenFeign" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-starter-openfeign" />
+        <module name="spring-cloud-openfeign-docs" />
+        <module name="spring-cloud-openfeign-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-openfeign" target="1.5" />
+      <module name="spring-cloud-openfeign-core" target="1.5" />
+      <module name="spring-cloud-openfeign-dependencies" target="1.5" />
+      <module name="spring-cloud-openfeign-docs" target="1.5" />
+      <module name="spring-cloud-starter-openfeign" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
